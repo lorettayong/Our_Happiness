@@ -10,7 +10,7 @@ Microsoft SQL Server Management Studio helped me to gain some insights to what p
 
 Here is a little glimpse to what the final dashboard looks like.
 
-
+![Our_Happiness_Dashboard](https://user-images.githubusercontent.com/98215213/152691395-1e5943b8-ac9b-418a-aaff-16a8bd3d1e48.png)
 
 The interactive form could be accessed via this [link](https://public.tableau.com/views/OurHappiness/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link). Additionally, the SQL query file and Tableau workbook are found in this repository as well.
 
