@@ -2,7 +2,7 @@
 
 Hi again!
 
-The previous project delved into our world population, so this time around, I thought about our happiness. Especially since we have found ourselves embroiled in the mayhem of the pandemic since end 2019 onwards, I wondered about how people assessed their level of happiness during these exceptionally challenging times. This was only made possible thanks to the folks who tenaciously complied the 2021 edition of the World Happiness Report (WHR). Do check our their [vibrant website](https://worldhappiness.report/ed/2021/) for their much more in-depth study.
+The previous project delved into our world population, so this time around, I thought about our happiness. Especially since we have found ourselves embroiled in the mayhem of the pandemic since end 2019 onwards, I wondered about how people assessed their level of happiness during these exceptionally challenging times. This was only made possible thanks to the folks who tenaciously complied the 2021 edition of the World Happiness Report (WHR).
 
 I should add a small disclaimer at this point: My analysis was based solely on the dataset available on WHR's website. Except for the definition of the variables, no other reference were made to WHR 2021 and interpretations were done as per what the numbers were saying. Nevertheless, do check our their [vibrant website](https://worldhappiness.report/ed/2021/) for their much more in-depth study.
 
